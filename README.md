@@ -3,7 +3,7 @@ Aplikasi ini dibuat dengan bahasa Pemrograman Java dan Database Firebase, dan An
 Aplikasi ini dibuat untuk memenuhi tugas Pemrograman Perangkat Bergerak Kelompok A11.4509.<br/>
 Jurusan Teknik Informatika<br/>
 Fakultas Ilmu Komputer<br/>
-Universitas Dian Nuswantoro<br/>
+Universitas Dian Nuswantoro<br/><br/>
 Aplikasi ini memiliki fitur :<br/>
 ~ Splash Screen<br/>
 ~ Register<br/>
