@@ -1,15 +1,16 @@
 # Aplikasi Chatting ProChats
-Aplikasi ini dibuat untuk memenuhi tugas Pemrograman Perangkat Bergerak Kelompok A11.4509
-Jurusan Teknik Informatika
-Fakultas Ilmu Komputer
-Universitas Dian Nuswantoro
-Aplikasi ini memiliki fitur
-~ Splash Screen
-~ Register
-~ Login
-~ Forgot Password
-~ Check if user is online
-~ Search User
-~ Change Image Profile
-Mohon maaf apabila masih banyak kekurangan dalam pengembangan aplikasi ini,
+Aplikasi ini dibuat dengan bahasa Pemrograman Java dan Database Firebase, dan Android Studio sebagai IDE.<br/>
+Aplikasi ini dibuat untuk memenuhi tugas Pemrograman Perangkat Bergerak Kelompok A11.4509.<br/>
+Jurusan Teknik Informatika<br/>
+Fakultas Ilmu Komputer<br/>
+Universitas Dian Nuswantoro<br/>
+Aplikasi ini memiliki fitur :<br/>
+~ Splash Screen<br/>
+~ Register<br/>
+~ Login<br/>
+~ Forgot Password<br/>
+~ Check if user is online<br/>
+~ Search User<br/>
+~ Change Image Profile<br/><br/>
+Mohon maaf apabila masih banyak kekurangan dalam pengembangan aplikasi ini,<br/>
 Terima Kasih
