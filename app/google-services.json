@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230649437632",
+    "firebase_url": "https://prochats-362b0-default-rtdb.firebaseio.com",
+    "project_id": "prochats-362b0",
+    "storage_bucket": "prochats-362b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230649437632:android:b4f0e27a174cbc138bbc25",
+        "android_client_info": {
+          "package_name": "com.samurai.prochats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230649437632-indgsmasacj360t5ptkjjgmhlegij5di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samurai.prochats",
+            "certificate_hash": "919f27b302dc212eb36354c51e35d61e078907be"
+          }
+        },
+        {
+          "client_id": "230649437632-p7sg8tf70m6muakd2fmvs7urqe7ffgf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAME-wwW-JMrF13OO-HpiUqyuO7nfFAFXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230649437632-p7sg8tf70m6muakd2fmvs7urqe7ffgf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/oren2"
+    android:layout_height="match_parent"
+    tools:context=".StartActivity">
+
+    <ImageView
+        android:id="@+id/splashscreen"
+        android:layout_width="130dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/logos"
+        android:outlineSpotShadowColor="@color/white"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chattings"
+        android:textStyle="bold"
+        android:textColor="@color/oren"
+        android:fontFamily="cursive"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:layout_marginTop="-30dp"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@color/oren"
+        android:id="@+id/login"
+        android:text="Login"
+        android:textColor="#000"
+        />
+
+    <Button
+        android:layout_marginTop="15dp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="@color/oren3"
+        android:id="@+id/register"
+        android:text="Register"
+        android:textColor="#000"
+        />
+</LinearLayout>
